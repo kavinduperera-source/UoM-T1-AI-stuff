@@ -1,3 +1,2 @@
-def funct():
-    pass
-    test
+print("Hello")
+
