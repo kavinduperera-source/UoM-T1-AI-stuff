@@ -5,6 +5,5 @@ def sum_multiplies(limit):
             the_sum = the_sum + num
     return the_sum
 
-limit = 1000
-print(sum_multiplies(limit))
+print(sum_multiplies(1000))
         
