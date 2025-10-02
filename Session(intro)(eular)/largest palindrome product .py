@@ -2,7 +2,7 @@ def is_palindrome_product(num1,num2):
     product = str(num1*num2)
     return product == product[::-1]
 
-digits = 4
+digits = 3
 num1 = int("9"*digits)
 num2 = int("9"*digits)
 
